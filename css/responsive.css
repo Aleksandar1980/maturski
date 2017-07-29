@@ -1,0 +1,172 @@
+@media only screen and (max-width:1028px){
+    p.cena {font-size: 40px;}      
+}
+@media only screen and (max-width:909px) {
+   p.sapunica1 {margin-right: 72px;}
+}
+@media only screen and (max-width:848px) {
+ img.zirafa {display: none;}
+ img.slon {display: none;}
+ p.proslave1 {font-size: 18px;}
+ p.dvorac2{margin-top: -82px;}
+ 
+}
+@media only screen and (max-width:684px){
+    img.gepard{display: none;}
+ .menu1 ul li {margin-right: 138px;
+               margin-left: -138px;}
+ p.sapunica1 {margin-right: 122px;}
+ p.lavirint2 {margin-left: 336px;}
+ p.trambolina2{margin-left: 46px;
+               margin-top: -78px;
+                 margin-right: 197px;}
+ p.dvorac2{margin-top: -82px;}
+ .row1 .col-md-4 {margin-left: -26px;}
+}
+@media only screen and (max-width:580px){
+button.hamburger{
+    visibility:  visible;
+          
+}
+.hamburger{
+  background:none;
+  position:absolute;
+  top:66px;
+  right:5px;;
+  line-height:45px;
+  padding:5px 15px 0px 15px;
+  color:#999;
+  border:0px;
+  font-size:1.4em;
+  font-weight:bold;
+  cursor:pointer;
+  outline:none;
+    
+}
+.cross{
+  background:none;
+  position:absolute;
+  top:66px;
+  right:5px;
+  padding:7px 15px 0px 15px;
+  color:#999;
+  border:0;
+  font-size:3em;
+  line-height:65px;
+  font-weight:bold;
+  cursor:pointer;
+  outline:none;
+}
+.menu{z-index:1000000; font-weight:bold; font-size:0.8em; width:100%; background:#f1f1f1;  position:absolute; text-align:center; font-size:12px;}
+.menu ul{
+    margin: 0; padding: 0; list-style-type: none; list-style-image: none;
+}
+.menu li {display: block;   padding:15px 0 15px 0; border-bottom:#dddddd 1px solid;   }
+
+.menu li:hover {display: block;    background:#004a6f;  }
+.menu ul li a { text-decoration:none;  margin: 0px; color:#666; }
+.menu ul li a:hover {color: #666; text-decoration:none; }
+.menu a{text-decoration: none; color:#666;}
+.menu a:hover{text-decoration:none; color:#666;}
+
+.glyphicon-home{
+  color:white; 
+  font-size:1.5em; 
+  margin-top:5px; 
+  margin:0 auto;
+  
+}
+.menu1 ul li {visibility: hidden;}
+p.lavirint2 {
+    margin-left: 300px;
+}
+p.proslave1 {
+    font-size:16px;
+}
+p.sapunica1{margin-right: 78px;}
+p.playstation1{margin-left: 56px;}
+p.trambolina1 {margin-left: 39px;}
+}
+@media only screen and (max-width:413px){
+    h1,h2 {font-size: 40px;}
+    p.lavirint1{margin-right: 74px;}
+    p.sapunica1{margin-top: 136px;}
+    p.sapunica2{margin-top: -141px;
+                 margin-left: 214px;}
+    p.playstation1{margin-top: 129px;}
+    p.dvorac1 {margin-top: 150px;}
+    p.dvorac2 {margin-right: 92px;
+                margin-left: 213px;}
+    p.trambolina1{margin-top: 54px;
+                 margin-left: 36px;}
+    p.trambolina2 {margin-left: 21px;
+                   margin-bottom: 58px;
+                   margin-right: 190px;
+                   margin-top: -85px;}
+    p.sminkanje1{margin-left: 42px;}
+    img.dalmatinac {margin-left: 74px;}
+    
+    
+}
+@media only screen and (max-width:389px){
+    h1, h2 {font-size: 30px;}
+ .carousel-indicators li {display:none;}
+ p.lavirint1 {font-size: 15px;}
+ p.lavirint2 {font-size: 10px;
+              margin-left: 235px;}
+ p.sminkanje1 {font-size: 15px;}
+ p.sminkanje2 {font-size: 10px;}
+ p.sapunica1 {font-size: 15px;
+             margin-right: 110px;
+              margin-top: 175px; }
+ p.sapunica2 {font-size: 10px;         
+ }
+ p.playstation1 {font-size: 15px;
+                 margin-top: 190px;
+                 }
+ p.playstation2 {font-size: 10px;}
+ p.dvorac1{font-size: 15px;}
+ p.dvorac2{font-size: 10px;
+           margin-right: 92px;
+            margin-left: 214px; }
+ p.trambolina1 {font-size: 15px;
+              margin-top: 71px;
+               margin-left: 50px;}
+ p.trambolina2 {font-size: 10px;
+                margin-left: 9px;}
+ p.cena {font-size: 30px;}
+  
+}
+@media only scree and (max-height:740px){
+    p.lavirint2 {margin-left: 239px;}
+    p.sapunica1{margin-right: 72px;}
+}
+@media only screen and (max-height:640px){
+ p.sminkanje1 {margin-left: 66px;}
+ p.sminkanje2 {margin-left: 59px;}
+ p.sapunica1 {margin-right: 85px;}
+ p.dvorac2 {margin-right: 69px;
+             margin-left: 206px;
+             margin-top: -90px;}
+}
+@media only screen and (max-height:569px){
+   p.lavirint1{margin-right: 37px;}
+p.sminkanje1 {margin-left: 32px;}
+p.sminkanje2 {margin-left: 33px;}
+p.sapunica1 {margin-right: 36px;}
+p.sapunica2{margin-top: -106px;
+             margin-left: 213px;
+             margin-right: 3px;}
+p.playstation1{margin-top: -178px;
+               margin-left: 84px;}
+p.dvorac1 {margin-top: 171px;
+            margin-right: 50px;}
+p.dvorac2{margin-right: 31px;}
+p.trambolina1{margin-left: 16px;}
+p.trambolina2{margin-left: 1px;}
+
+}
+@media only screen and (max-height:370px){
+    p.playstation1 {margin-top: 151px;}
+    p.dvorac1 {margin-top: 84px;}
+}
